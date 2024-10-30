@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-05-24 17:43+0300\n"
+"PO-Revision-Date: 2024-05-24 17:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: bws-google-2-step-verification.php:50 bws-google-2-step-verification.php:469
+#: bws-google-2-step-verification.php:2026
+#: bws-google-2-step-verification.php:2051
+#: includes/class-gglstpvrfctn-settings.php:30
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: bws-google-2-step-verification.php:68
+msgid "Upgrade to Pro"
+msgstr "Upgrade auf die Pro-Version"
+
+#: bws-google-2-step-verification.php:250
+msgid "Failed Verification Attempt"
+msgstr "Fehlgeschlagener Überprüfungsversuch"
+
+#: bws-google-2-step-verification.php:251
+msgid ""
+"Failed 2-Step verification attempt has just been registered at {site_url}."
+msgstr ""
+"Ein fehlgeschlagener 2-Schritt-Verifizierungsversuch wurde gerade bei "
+"{site_url} registriert."
+
+#: bws-google-2-step-verification.php:252
+msgid "If it was you, just ignore this message."
+msgstr "Wenn Sie es waren, ignorieren Sie diese Nachricht einfach."
+
+#: bws-google-2-step-verification.php:253
+msgid ""
+"You have received this message because failed attempt notifications are "
+"enabled for your account. You can manage your account settings on the "
+"following page"
+msgstr ""
+"Sie haben diese Nachricht erhalten, weil für Ihr Konto Benachrichtigungen "
+"über fehlgeschlagene Versuche aktiviert sind. Sie können Ihre "
+"Kontoeinstellungen auf der folgenden Seite verwalten"
+
+#: bws-google-2-step-verification.php:255
+msgid "Verification Code"
+msgstr "Bestätigungs Code"
+
+#: bws-google-2-step-verification.php:256
+msgid "Your verification code is {new_code}."
+msgstr "Ihr Verifizierungscode lautet {new_code}."
+
+#: bws-google-2-step-verification.php:257
+msgid ""
+"You have received this message because someone has just tried to sign in to "
+"your account at {site_url} and requested 2-Step verification code."
+msgstr ""
+"Sie haben diese Nachricht erhalten, weil jemand gerade versucht hat, sich "
+"bei Ihrem Konto bei {site_url} anzumelden und einen 2-Schritt-"
+"Verifizierungscode angefordert hat."
+
+#: bws-google-2-step-verification.php:359
+#: bws-google-2-step-verification.php:1233
+msgid "Verification code has been sent. Please check your email."
+msgstr ""
+"Der Verifizierungscode wurde gesendet. Bitte überprüfen Sie Ihre E-Mail."
+
+#: bws-google-2-step-verification.php:361
+msgid "Some problems occured during email sending."
+msgstr "Beim Versenden von E-Mails sind einige Probleme aufgetreten."
+
+#: bws-google-2-step-verification.php:364
+msgid "Verification with email code is disabled for this user."
+msgstr "Die Verifizierung mit E-Mail-Code ist für diesen Benutzer deaktiviert."
+
+#: bws-google-2-step-verification.php:430
+msgid "ERROR"
+msgstr "FEHLER"
+
+#: bws-google-2-step-verification.php:431
+msgid "2-Step verification failed."
+msgstr "2-Schritt-Verifizierung fehlgeschlagen."
+
+#: bws-google-2-step-verification.php:440
+msgid "<strong>Error</strong>: Email verification code has expired."
+msgstr "<strong>Fehler</strong>: Der E-Mail-Verifizierungscode ist abgelaufen."
+
+#: bws-google-2-step-verification.php:511
+msgid "SMS not sent. Your API key is invalid"
+msgstr "SMS nicht gesendet. Ihr API-Schlüssel ist ungültig"
+
+#: bws-google-2-step-verification.php:512
+msgid "The verification is successfully completed."
+msgstr "Die Überprüfung ist erfolgreich abgeschlossen."
+
+#: bws-google-2-step-verification.php:513
+msgid "The verification code is invalid."
+msgstr "Der Verifizierungs-Code ist ungültig."
+
+#: bws-google-2-step-verification.php:549
+msgid "Verification code has been resent. Please check your email."
+msgstr ""
+"Der Verifizierungscode wurde erneut gesendet. Bitte überprüfen Sie Ihre E-"
+"Mail."
+
+#: bws-google-2-step-verification.php:550
+msgid "Invalid SMS code."
+msgstr "Ungültiger SMS-Code."
+
+#: bws-google-2-step-verification.php:590
+msgid ""
+"Protect your personal account by enabling 2-step verification option on your "
+"profile page."
+msgstr ""
+"Schützen Sie Ihr persönliches Konto, indem Sie auf Ihrer Profilseite die "
+"Option 2-Schritt-Verifizierung aktivieren."
+
+#: bws-google-2-step-verification.php:592
+msgid "Go to my profile"
+msgstr "Zu meinem Profil"
+
+#: bws-google-2-step-verification.php:596
+#: includes/class-gglstpvrfctn-settings.php:139
+msgid "Close notice"
+msgstr "Anzeige ausblenden"
+
+#: bws-google-2-step-verification.php:1013
+msgid "You have no backup codes."
+msgstr "Sie haben keine Backup-Codes."
+
+#: bws-google-2-step-verification.php:1016
+#, php-format
+msgid "Backup codes for %s"
+msgstr "Sicherungscodes für %s"
+
+#: bws-google-2-step-verification.php:1031
+msgid "Visit the following page to generate new codes"
+msgstr "Besuchen Sie die folgende Seite, um neue Codes zu generieren"
+
+#: bws-google-2-step-verification.php:1265
+msgid "Verification code has been sent. Please check your phone."
+msgstr ""
+"Der Verifizierungscode wurde gesendet. Bitte überprüfen Sie Ihr Telefon."
+
+#: bws-google-2-step-verification.php:1338
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: bws-google-2-step-verification.php:1360
+msgid "2-Step Verification value"
+msgstr "2-stufiger Verifizierungswert"
+
+#: bws-google-2-step-verification.php:1365
+msgid "Insert the code if you enabled 2-Step verification for your profile"
+msgstr ""
+"Geben Sie den Code ein, wenn Sie die 2-Schritt-Verifizierung für Ihr Profil "
+"aktiviert haben"
+
+#: bws-google-2-step-verification.php:1369
+msgid "Show secret question"
+msgstr "Geheime Frage anzeigen"
+
+#: bws-google-2-step-verification.php:1375
+msgid "Send me a code via email"
+msgstr "Senden Sie mir einen Code per E-Mail"
+
+#: bws-google-2-step-verification.php:1379
+msgid "Send me a code via sms"
+msgstr "Senden Sie mir einen Code per sms"
+
+#: bws-google-2-step-verification.php:1383
+msgid "The code has been already sent."
+msgstr "Der Code wurde bereits gesendet."
+
+#: bws-google-2-step-verification.php:1384
+msgid "Resend Code"
+msgstr "Code erneut senden"
+
+#: bws-google-2-step-verification.php:1385
+#: bws-google-2-step-verification.php:1602
+#: bws-google-2-step-verification.php:1715
+#, fuzzy
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: bws-google-2-step-verification.php:1492
+#: bws-google-2-step-verification.php:1764
+msgid "2-Step Verification"
+msgstr "2-Schritt-Verifizierung"
+
+#: bws-google-2-step-verification.php:1496
+#: bws-google-2-step-verification.php:1768
+msgid "Verification"
+msgstr "Überprüfung"
+
+#: bws-google-2-step-verification.php:1502
+msgid "Enable to activate 2-Step Verification."
+msgstr "Aktivieren Sie, um die 2-Schritt-Verifizierung zu aktivieren."
+
+#: bws-google-2-step-verification.php:1511
+#: bws-google-2-step-verification.php:1783
+#: includes/class-gglstpvrfctn-settings.php:158
+msgid "Verification Methods"
+msgstr "Methoden zur Verifizierung"
+
+#: bws-google-2-step-verification.php:1518
+#: bws-google-2-step-verification.php:1789
+#: includes/class-gglstpvrfctn-settings.php:162
+msgid "Email"
+msgstr "E-Mail"
+
+#: bws-google-2-step-verification.php:1527
+#: includes/class-gglstpvrfctn-settings.php:165
+msgid "Authenticator app"
+msgstr "Authenticator App"
+
+#: bws-google-2-step-verification.php:1536
+#: includes/class-gglstpvrfctn-settings.php:168
+msgid "Backup codes"
+msgstr "Sicherungscodes"
+
+#: bws-google-2-step-verification.php:1545
+#: includes/class-gglstpvrfctn-settings.php:174
+msgid "Secret question"
+msgstr "Geheime Frage"
+
+#: bws-google-2-step-verification.php:1554
+#: bws-google-2-step-verification.php:1797
+#: includes/class-gglstpvrfctn-settings.php:171
+#: includes/class-gglstpvrfctn-settings.php:203
+msgid "SMS code"
+msgstr "SMS-Code"
+
+#: bws-google-2-step-verification.php:1557
+#: bws-google-2-step-verification.php:1800
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: bws-google-2-step-verification.php:1564
+#: bws-google-2-step-verification.php:1807
+#: includes/class-gglstpvrfctn-settings.php:246
+msgid "A valid phone number is required"
+msgstr "Lütfen geçerli bir telefon numarası girin"
+
+#: bws-google-2-step-verification.php:1573
+msgid "Failed Attempt Notifications"
+msgstr "Benachrichtigungen über fehlgeschlagene Versuche"
+
+#: bws-google-2-step-verification.php:1577
+msgid ""
+"Enable if you want to receive email notifications about each failed "
+"verification attempt."
+msgstr ""
+"Aktivieren Sie diese Option, wenn Sie E-Mail-Benachrichtigungen über jeden "
+"fehlgeschlagenen Verifizierungsversuch erhalten möchten."
+
+#: bws-google-2-step-verification.php:1588
+msgid "Authenticator App"
+msgstr "Authenticator App"
+
+#: bws-google-2-step-verification.php:1593
+msgid "Not verified"
+msgstr "Nicht verifiziert"
+
+#: bws-google-2-step-verification.php:1596
+msgid "Verified"
+msgstr "Verifiziert"
+
+#: bws-google-2-step-verification.php:1599
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: bws-google-2-step-verification.php:1606
+msgid "Done! Your Authenticator app is set."
+msgstr "Erledigt! Ihre Authenticator-App ist eingerichtet."
+
+#: bws-google-2-step-verification.php:1613
+#, php-format
+msgid ""
+"Download and install Authenticator application on your %1$s, %2$s or %3$s "
+"device."
+msgstr ""
+"Laden Sie die Anwendung Authenticator herunter und installieren Sie sie auf "
+"Ihrem %1$s, %2$s oder %3$s Gerät."
+
+#: bws-google-2-step-verification.php:1622
+msgid "Scan the following QR code using Authenticator application."
+msgstr "Scannen Sie den folgenden QR-Code mit der Anwendung Authenticator."
+
+#: bws-google-2-step-verification.php:1624
+msgid "Can't scan the QR code?"
+msgstr "Sie können den QR-Code nicht scannen?"
+
+#: bws-google-2-step-verification.php:1627
+msgid "Enter the secret key below into your Authenticator application manually"
+msgstr ""
+"Geben Sie den geheimen Schlüssel unten manuell in Ihre Authenticator-"
+"Anwendung ein"
+
+#: bws-google-2-step-verification.php:1633
+msgid ""
+"Once you have entered the secret key, enter and verify the 6-digit "
+"verification code generated by the Authenticator app"
+msgstr ""
+"Sobald Sie den geheimen Schlüssel eingegeben haben, geben Sie den 6-"
+"stelligen Verifizierungscode ein, der von der Authenticator-App generiert "
+"wird, und bestätigen Sie ihn"
+
+#: bws-google-2-step-verification.php:1635
+msgid ""
+"Once you have scanned the QR code (or entered the secret key manually), "
+"enter and verify the 6-digit verification code generated by the "
+"Authenticator app"
+msgstr ""
+"Nachdem Sie den QR-Code gescannt (oder den geheimen Schlüssel manuell "
+"eingegeben) haben, geben Sie den 6-stelligen Verifizierungscode ein, der von "
+"der Authenticator-App generiert wird, und verifizieren ihn"
+
+#: bws-google-2-step-verification.php:1638
+msgid "Verify"
+msgstr "Verifizieren"
+
+#: bws-google-2-step-verification.php:1641
+msgid "Wrong code, try again."
+msgstr "Falscher Code, versuchen Sie es erneut."
+
+#: bws-google-2-step-verification.php:1658
+msgid "Backup Codes"
+msgstr "Backup Codes"
+
+#: bws-google-2-step-verification.php:1664
+#, php-format
+msgid "Codes left: %s"
+msgstr "Codes links: %s"
+
+#: bws-google-2-step-verification.php:1674
+msgid "Download as TXT"
+msgstr "Als TXT herunterladen"
+
+#: bws-google-2-step-verification.php:1677
+msgid "Generate New Codes"
+msgstr "Neue Codes generieren"
+
+#: bws-google-2-step-verification.php:1681
+msgid ""
+"Each Backup code can be used only once. You should keep it somewhere safe "
+"but accessible."
+msgstr ""
+"Jeder Backup-Code kann nur einmal verwendet werden. Sie sollten ihn an einem "
+"sicheren, aber zugänglichen Ort aufbewahren."
+
+#: bws-google-2-step-verification.php:1683
+#: bws-google-2-step-verification.php:1684
+msgid "Show Codes"
+msgstr "Codes zeigen"
+
+#: bws-google-2-step-verification.php:1683
+msgid "Hide Codes"
+msgstr "Codes ausblenden"
+
+#: bws-google-2-step-verification.php:1707
+msgid "Secret question : "
+msgstr "Geheime Frage : "
+
+#: bws-google-2-step-verification.php:1712
+msgid "Edit question data"
+msgstr "Fragedaten bearbeiten"
+
+#: bws-google-2-step-verification.php:1719
+msgid "Enter your secret question :"
+msgstr "Geben Sie Ihre Geheimfrage ein:"
+
+#: bws-google-2-step-verification.php:1722
+msgid "Enter answer for secret question :"
+msgstr "Geben Sie die Antwort auf die geheime Frage ein:"
+
+#: bws-google-2-step-verification.php:1774
+msgid "Enable if you want the user to use 2-Step Verification."
+msgstr ""
+"Aktivieren Sie diese Option, wenn Sie möchten, dass der Benutzer die 2-"
+"Schritt-Verifizierung verwendet."
+
+#: bws-google-2-step-verification.php:1836
+#: includes/class-gglstpvrfctn-settings.php:85
+msgid "Sorry, your nonce did not verify."
+msgstr "Entschuldigung, Ihr Verifizierung ist ungültig."
+
+#: bws-google-2-step-verification.php:1974
+msgid "You should enable and configure at least one verification method."
+msgstr ""
+"Sie sollten mindestens eine Überprüfungsmethode aktivieren und konfigurieren."
+
+#: bws-google-2-step-verification.php:1975
+#: bws-google-2-step-verification.php:1990
+msgid "2-Step Verification has been disabled."
+msgstr "die 2-Schritt-Verifizierung wurde deaktiviert."
+
+#: bws-google-2-step-verification.php:1989
+msgid "At least one enabled verification method should be configured properly."
+msgstr ""
+"Mindestens eine aktivierte Überprüfungsmethode sollte richtig konfiguriert "
+"sein."
+
+#: bws-google-2-step-verification.php:2028
+msgid "FAQ"
+msgstr "FAQ"
+
+#: bws-google-2-step-verification.php:2029
+msgid "Support"
+msgstr "Support"
+
+#: bws-google-2-step-verification.php:2121
+msgid "This is your question : "
+msgstr "Dies ist Ihre Frage: "
+
+#: bws-google-2-step-verification.php:2121
+msgid "You have empty secret pass"
+msgstr "Sie haben einen leeren Geheimpass"
+
+#: includes/class-gglstpvrfctn-settings.php:31
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: includes/class-gglstpvrfctn-settings.php:32
+msgid "Misc"
+msgstr "Verschiedenes"
+
+#: includes/class-gglstpvrfctn-settings.php:33
+msgid "Custom Code"
+msgstr "Benutzerdefinierter Code"
+
+#: includes/class-gglstpvrfctn-settings.php:34
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: includes/class-gglstpvrfctn-settings.php:110
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: includes/class-gglstpvrfctn-settings.php:126
+msgid "Please enable JavaScript in Your browser."
+msgstr "Bitte aktivieren Sie JavaScript in Ihrem Browser."
+
+#: includes/class-gglstpvrfctn-settings.php:134
+msgid "Note"
+msgstr "Hinweis"
+
+#: includes/class-gglstpvrfctn-settings.php:135
+msgid ""
+"Users should enable 2-step verification option for their accounts on the "
+"personal profile page."
+msgstr ""
+"Benutzer sollten die 2-Schritt-Verifizierung für ihre Konten auf der "
+"persönlichen Profilseite aktivieren."
+
+#: includes/class-gglstpvrfctn-settings.php:153
+msgid "2-Step Verification Settings"
+msgstr "einstellungen für die 2-Schritt-Verifizierung"
+
+#: includes/class-gglstpvrfctn-settings.php:181
+msgid "Email Verification by Default "
+msgstr "E-Mail-Überprüfung als Standard "
+
+#: includes/class-gglstpvrfctn-settings.php:185
+msgid ""
+"Enable to apply 2-step authentication via email to the new user by default."
+msgstr ""
+"Aktivieren Sie diese Option, um die 2-stufige Authentifizierung per E-Mail "
+"auf den neuen Benutzer standardmäßig anzuwenden."
+
+#: includes/class-gglstpvrfctn-settings.php:194
+#: includes/class-gglstpvrfctn-settings.php:277
+#: includes/class-gglstpvrfctn-settings.php:362
+msgid "Close"
+msgstr "Schließen"
+
+#: includes/class-gglstpvrfctn-settings.php:198
+msgid "Verification Methods for Non-registered Users "
+msgstr "Überprüfungsmethoden für nicht registrierte Benutzer "
+
+#: includes/class-gglstpvrfctn-settings.php:215
+msgid "SMS Settings"
+msgstr "SMS Einstellungen"
+
+#: includes/class-gglstpvrfctn-settings.php:222
+msgid "Register your website in"
+msgstr "Registrieren Sie Ihre Website in"
+
+#: includes/class-gglstpvrfctn-settings.php:224
+msgid "Firebase console"
+msgstr "Firebase-Konsole"
+
+#: includes/class-gglstpvrfctn-settings.php:225
+msgid ""
+"to use the SMS code verification method. After registration add the API key "
+"into the field below."
+msgstr ""
+"um die Methode der SMS-Code-Überprüfung zu verwenden. Geben Sie nach der "
+"Registrierung den API-Schlüssel in das unten stehende Feld ein."
+
+#: includes/class-gglstpvrfctn-settings.php:233
+msgid "Need help to setup a Firebase account?"
+msgstr "Benötigen Sie Hilfe bei der Einrichtung eines Firebase-Kontos?"
+
+#: includes/class-gglstpvrfctn-settings.php:235
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+#: includes/class-gglstpvrfctn-settings.php:239
+msgid "API Key"
+msgstr "API-Schlüssel"
+
+#: includes/class-gglstpvrfctn-settings.php:241
+msgid "Test Firebase SMS Auth"
+msgstr "Firebase SMS-Authentifizierung testen"
+
+#: includes/class-gglstpvrfctn-settings.php:243
+msgid "Test phone number"
+msgstr "Test-Telefonnummer"
+
+#: includes/class-gglstpvrfctn-settings.php:245
+msgid "Send test SMS"
+msgstr "Test SMS senden"
+
+#: includes/class-gglstpvrfctn-settings.php:251
+msgid "Enter the code from sms and click 'Test code' button "
+msgstr ""
+"Geben Sie den Code aus der SMS ein und klicken Sie auf die Schaltfläche "
+"'Code testen' "
+
+#: includes/class-gglstpvrfctn-settings.php:254
+msgid "Test code"
+msgstr "Test code"
+
+#: includes/class-gglstpvrfctn-settings.php:263
+msgid "Enable Verification for"
+msgstr "Aktivieren Sie die Verifizierung für"
+
+#: includes/class-gglstpvrfctn-settings.php:267
+msgid "All"
+msgstr "Alle"
+
+#: includes/class-gglstpvrfctn-settings.php:268
+msgid ""
+"Uncheck if you would like to allow 2-Step Verification only for the "
+"administrator"
+msgstr ""
+"Deaktivieren Sie das Kontrollkästchen, wenn Sie die 2-Schritt-Überprüfung "
+"nur für den Administrator zulassen möchten"
+
+#: includes/class-gglstpvrfctn-settings.php:309
+msgid "Email Codes Expiration Time"
+msgstr "E-Mail-Codes Verfallszeit"
+
+#: includes/class-gglstpvrfctn-settings.php:312
+#: includes/class-gglstpvrfctn-settings.php:324
+msgid "minute(-s)"
+msgstr "minute(-s)"
+
+#: includes/class-gglstpvrfctn-settings.php:313
+#, php-format
+msgid "Set \"%d\" to disable expiration time."
+msgstr "Stellen Sie \"%d\" ein, um die Verfallszeit zu deaktivieren."
+
+#: includes/class-gglstpvrfctn-settings.php:318
+msgid "Authenticator Time Window"
+msgstr "Authenticator Zeitfenster"
+
+#: includes/class-gglstpvrfctn-settings.php:325
+msgid ""
+"Time-based codes generation depends upon the time. The time on your web-"
+"server and on device with Authenticator app should be the same. You can "
+"increase Authenticator time window if you want to allow some difference "
+"between your web-server's and user device's time."
+msgstr ""
+"Die Generierung zeitbasierter Codes hängt von der Uhrzeit ab. Die Zeit auf "
+"Ihrem Webserver und auf dem Gerät mit der Authenticator App sollte die "
+"gleiche sein. Sie können das Authenticator-Zeitfenster vergrößern, wenn Sie "
+"einen gewissen Unterschied zwischen der Zeit auf Ihrem Webserver und der "
+"Zeit auf dem Gerät des Benutzers zulassen möchten."
+
+#: includes/class-gglstpvrfctn-settings.php:328
+#, php-format
+msgid "Set \"%1$d\" to use default value (default is %2$d sec)."
+msgstr ""
+"Stellen Sie \"%1$d\" ein, um den Standardwert zu verwenden (Standard ist "
+"%2$d sec)."
+
+#: includes/class-gglstpvrfctn-settings.php:344
+msgid "2-Step Notifications Settings"
+msgstr "einstellungen für 2-stufige Benachrichtigungen"
+
+#: includes/class-gglstpvrfctn-settings.php:349
+msgid "Email Notifications"
+msgstr "E-Mail Benachrichtigungen"
+
+#: includes/class-gglstpvrfctn-settings.php:353
+msgid ""
+"Enable to activate failed verification attempts notifications option for "
+"users (users should enable appropriate option in their profiles to receive "
+"email notifications)."
+msgstr ""
+"Aktivieren Sie die Option zur Benachrichtigung von Benutzern über "
+"fehlgeschlagene Verifizierungsversuche (Benutzer sollten die entsprechende "
+"Option in ihren Profilen aktivieren, um E-Mail-Benachrichtigungen zu "
+"erhalten)."
+
+#: includes/class-gglstpvrfctn-settings.php:366
+msgid "Subject"
+msgstr "Betreff"
+
+#: includes/class-gglstpvrfctn-settings.php:372
+msgid "Message"
+msgstr "Mitteilung"
+
+#: includes/class-gglstpvrfctn-settings.php:376
+msgid "Allowed variables"
+msgstr "Erlaubte Variablen"
+
+#: includes/class-gglstpvrfctn-settings.php:377
+msgid "User name"
+msgstr "Benutzername"
+
+#: includes/class-gglstpvrfctn-settings.php:378
+msgid "User email"
+msgstr "E-Mail des Benutzers"
+
+#: includes/class-gglstpvrfctn-settings.php:379
+msgid "Site name"
+msgstr "Name der Webseite"
+
+#: includes/class-gglstpvrfctn-settings.php:380
+msgid "Site URL"
+msgstr "Seiten URL"
+
+#: includes/class-gglstpvrfctn-settings.php:381
+msgid "Date and time when the IP address was blocked"
+msgstr "Datum und Uhrzeit, zu der die IP-Adresse gesperrt wurde"
+
+#: includes/class-gglstpvrfctn-settings.php:382
+msgid "Blocked IP address"
+msgstr "Gesperrte IP-Adresse"
+
+#: includes/class-gglstpvrfctn-settings.php:383
+msgid "Profile settings page URL"
+msgstr "URL der Seite mit den Profileinstellungen"
+
+#: includes/class-gglstpvrfctn-settings.php:388
+msgid "Restore Default Email Notifications"
+msgstr "Standard E-Mail-Benachrichtigungen wiederherstellen"
+
+#: includes/class-gglstpvrfctn-settings.php:390
+msgid "Restore Email Notifications"
+msgstr "E-Mail-Benachrichtigungen wiederherstellen"
+
+#: includes/class-gglstpvrfctn-settings.php:392
+msgid "Restore default email notifications."
+msgstr "Stellen Sie die Standard-E-Mail-Benachrichtigungen wieder her."

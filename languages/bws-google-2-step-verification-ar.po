@@ -1,0 +1,640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-05-24 17:43+0300\n"
+"PO-Revision-Date: 2024-05-24 17:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: bws-google-2-step-verification.php:50 bws-google-2-step-verification.php:469
+#: bws-google-2-step-verification.php:2026
+#: bws-google-2-step-verification.php:2051
+#: includes/class-gglstpvrfctn-settings.php:30
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: bws-google-2-step-verification.php:68
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى الاصدار المدفوع"
+
+#: bws-google-2-step-verification.php:250
+msgid "Failed Verification Attempt"
+msgstr "محاولة التحقق الفاشلة"
+
+#: bws-google-2-step-verification.php:251
+msgid ""
+"Failed 2-Step verification attempt has just been registered at {site_url}."
+msgstr "تم تسجيل محاولة تحقق فاشلة من خطوتين للتو في {site_url}."
+
+#: bws-google-2-step-verification.php:252
+msgid "If it was you, just ignore this message."
+msgstr "إذا كنت أنت، تجاهل هذه الرسالة."
+
+#: bws-google-2-step-verification.php:253
+msgid ""
+"You have received this message because failed attempt notifications are "
+"enabled for your account. You can manage your account settings on the "
+"following page"
+msgstr ""
+"لقد تلقيت هذه الرسالة بسبب تمكين إشعارات المحاولات الفاشلة لحسابك. يمكنك "
+"إدارة إعدادات حسابك على الصفحة التالية"
+
+#: bws-google-2-step-verification.php:255
+msgid "Verification Code"
+msgstr "رمز التحقق"
+
+#: bws-google-2-step-verification.php:256
+msgid "Your verification code is {new_code}."
+msgstr "رمز التحقق الخاص بك هو {new_code}."
+
+#: bws-google-2-step-verification.php:257
+msgid ""
+"You have received this message because someone has just tried to sign in to "
+"your account at {site_url} and requested 2-Step verification code."
+msgstr ""
+"لقد تلقيت هذه الرسالة لأن شخصًا ما حاول للتو تسجيل الدخول إلى حسابك على "
+"{site_url} وطلب رمز التحقق بخطوتين."
+
+#: bws-google-2-step-verification.php:359
+#: bws-google-2-step-verification.php:1233
+msgid "Verification code has been sent. Please check your email."
+msgstr "تم إرسال رمز التحقق. يرجى التحقق من بريدك الإلكتروني."
+
+#: bws-google-2-step-verification.php:361
+msgid "Some problems occured during email sending."
+msgstr "حدثت بعض المشاكل أثناء إرسال البريد الإلكتروني."
+
+#: bws-google-2-step-verification.php:364
+msgid "Verification with email code is disabled for this user."
+msgstr "تم تعطيل التحقق باستخدام رمز البريد الإلكتروني لهذا المستخدم."
+
+#: bws-google-2-step-verification.php:430
+msgid "ERROR"
+msgstr "خطأ"
+
+#: bws-google-2-step-verification.php:431
+msgid "2-Step verification failed."
+msgstr "فشلت عملية التحقق بخطوتين."
+
+#: bws-google-2-step-verification.php:440
+msgid "<strong>Error</strong>: Email verification code has expired."
+msgstr "<strong>خطأ</strong>: انتهت صلاحية رمز التحقق من البريد الإلكتروني."
+
+#: bws-google-2-step-verification.php:511
+msgid "SMS not sent. Your API key is invalid"
+msgstr "لم يتم إرسال رسالة نصية قصيرة. مفتاح API الخاص بك غير صالح"
+
+#: bws-google-2-step-verification.php:512
+msgid "The verification is successfully completed."
+msgstr "اكتمل التحقق بنجاح."
+
+#: bws-google-2-step-verification.php:513
+msgid "The verification code is invalid."
+msgstr "رمز التحقق غير صالح."
+
+#: bws-google-2-step-verification.php:549
+msgid "Verification code has been resent. Please check your email."
+msgstr "تمت إعادة إرسال رمز التحقق. يرجى التحقق من بريدك الإلكتروني."
+
+#: bws-google-2-step-verification.php:550
+msgid "Invalid SMS code."
+msgstr "رمز SMS غير صالح."
+
+#: bws-google-2-step-verification.php:590
+msgid ""
+"Protect your personal account by enabling 2-step verification option on your "
+"profile page."
+msgstr ""
+"قم بحماية حسابك الشخصي من خلال تمكين خيار التحقق بخطوتين على صفحة ملفك "
+"الشخصي."
+
+#: bws-google-2-step-verification.php:592
+msgid "Go to my profile"
+msgstr "انتقل إلى ملفي الشخصي"
+
+#: bws-google-2-step-verification.php:596
+#: includes/class-gglstpvrfctn-settings.php:139
+msgid "Close notice"
+msgstr "إغلاق الإشعار"
+
+#: bws-google-2-step-verification.php:1013
+msgid "You have no backup codes."
+msgstr "ليس لديك رموز احتياطية."
+
+#: bws-google-2-step-verification.php:1016
+#, php-format
+msgid "Backup codes for %s"
+msgstr "الرموز الاحتياطية لـ %s"
+
+#: bws-google-2-step-verification.php:1031
+msgid "Visit the following page to generate new codes"
+msgstr "قم بزيارة الصفحة التالية لإنشاء رموز جديدة"
+
+#: bws-google-2-step-verification.php:1265
+msgid "Verification code has been sent. Please check your phone."
+msgstr "تم إرسال رمز التحقق. يرجى التحقق من هاتفك."
+
+#: bws-google-2-step-verification.php:1338
+msgid "Lost your password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: bws-google-2-step-verification.php:1360
+msgid "2-Step Verification value"
+msgstr "2 - قيمة التحقق من الخطوة 2"
+
+#: bws-google-2-step-verification.php:1365
+msgid "Insert the code if you enabled 2-Step verification for your profile"
+msgstr "أدخل الرمز إذا قمت بتمكين التحقق بخطوتين لملفك الشخصي"
+
+#: bws-google-2-step-verification.php:1369
+msgid "Show secret question"
+msgstr "إظهار السؤال السري"
+
+#: bws-google-2-step-verification.php:1375
+msgid "Send me a code via email"
+msgstr "أرسل لي رمزاً عبر البريد الإلكتروني"
+
+#: bws-google-2-step-verification.php:1379
+msgid "Send me a code via sms"
+msgstr "أرسل لي رمزاً عبر رسالة نصية قصيرة"
+
+#: bws-google-2-step-verification.php:1383
+msgid "The code has been already sent."
+msgstr "تم إرسال الرمز بالفعل."
+
+#: bws-google-2-step-verification.php:1384
+msgid "Resend Code"
+msgstr "إعادة إرسال الرمز"
+
+#: bws-google-2-step-verification.php:1385
+#: bws-google-2-step-verification.php:1602
+#: bws-google-2-step-verification.php:1715
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: bws-google-2-step-verification.php:1492
+#: bws-google-2-step-verification.php:1764
+msgid "2-Step Verification"
+msgstr "التحقق بخطوتين"
+
+#: bws-google-2-step-verification.php:1496
+#: bws-google-2-step-verification.php:1768
+msgid "Verification"
+msgstr "التحقق"
+
+#: bws-google-2-step-verification.php:1502
+msgid "Enable to activate 2-Step Verification."
+msgstr "تمكين لتفعيل التحقُّق بخطوتين."
+
+#: bws-google-2-step-verification.php:1511
+#: bws-google-2-step-verification.php:1783
+#: includes/class-gglstpvrfctn-settings.php:158
+msgid "Verification Methods"
+msgstr "طرق التحقق"
+
+#: bws-google-2-step-verification.php:1518
+#: bws-google-2-step-verification.php:1789
+#: includes/class-gglstpvrfctn-settings.php:162
+msgid "Email"
+msgstr "البريد"
+
+#: bws-google-2-step-verification.php:1527
+#: includes/class-gglstpvrfctn-settings.php:165
+msgid "Authenticator app"
+msgstr "تطبيق Authenticator"
+
+#: bws-google-2-step-verification.php:1536
+#: includes/class-gglstpvrfctn-settings.php:168
+msgid "Backup codes"
+msgstr "الرموز الاحتياطية"
+
+#: bws-google-2-step-verification.php:1545
+#: includes/class-gglstpvrfctn-settings.php:174
+msgid "Secret question"
+msgstr "السؤال السري"
+
+#: bws-google-2-step-verification.php:1554
+#: bws-google-2-step-verification.php:1797
+#: includes/class-gglstpvrfctn-settings.php:171
+#: includes/class-gglstpvrfctn-settings.php:203
+msgid "SMS code"
+msgstr "كود SMS"
+
+#: bws-google-2-step-verification.php:1557
+#: bws-google-2-step-verification.php:1800
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: bws-google-2-step-verification.php:1564
+#: bws-google-2-step-verification.php:1807
+#: includes/class-gglstpvrfctn-settings.php:246
+msgid "A valid phone number is required"
+msgstr "يلزم وجود رقم هاتف ساري المفعول"
+
+#: bws-google-2-step-verification.php:1573
+msgid "Failed Attempt Notifications"
+msgstr "إشعارات المحاولات الفاشلة"
+
+#: bws-google-2-step-verification.php:1577
+msgid ""
+"Enable if you want to receive email notifications about each failed "
+"verification attempt."
+msgstr ""
+"تمكين إذا كنت ترغب في تلقي إشعارات عبر البريد الإلكتروني حول كل محاولة تحقق "
+"فاشلة."
+
+#: bws-google-2-step-verification.php:1588
+msgid "Authenticator App"
+msgstr "تطبيق Authenticator"
+
+#: bws-google-2-step-verification.php:1593
+msgid "Not verified"
+msgstr "غير موثق"
+
+#: bws-google-2-step-verification.php:1596
+msgid "Verified"
+msgstr "موثق"
+
+#: bws-google-2-step-verification.php:1599
+msgid "Edit"
+msgstr "تعديل"
+
+#: bws-google-2-step-verification.php:1606
+msgid "Done! Your Authenticator app is set."
+msgstr "تم! تم تعيين تطبيق Authenticator الخاص بك."
+
+#: bws-google-2-step-verification.php:1613
+#, php-format
+msgid ""
+"Download and install Authenticator application on your %1$s, %2$s or %3$s "
+"device."
+msgstr "قم بتنزيل تطبيق Authenticator وتثبيته على جهازك %1$s أو %2$s أو %3$s."
+
+#: bws-google-2-step-verification.php:1622
+msgid "Scan the following QR code using Authenticator application."
+msgstr "امسح رمز الاستجابة السريعة التالي باستخدام تطبيق Authenticator."
+
+#: bws-google-2-step-verification.php:1624
+msgid "Can't scan the QR code?"
+msgstr "لا يمكنك مسح رمز الاستجابة السريعة ضوئياً؟"
+
+#: bws-google-2-step-verification.php:1627
+msgid "Enter the secret key below into your Authenticator application manually"
+msgstr ""
+"أدخل المفتاح السري أدناه في تطبيق Authenticator يدويًا في تطبيق Authenticator "
+"الخاص بك"
+
+#: bws-google-2-step-verification.php:1633
+msgid ""
+"Once you have entered the secret key, enter and verify the 6-digit "
+"verification code generated by the Authenticator app"
+msgstr ""
+"بمجرد إدخال المفتاح السري، أدخل رمز التحقق المكون من 6 أرقام الذي تم إنشاؤه "
+"بواسطة تطبيق Authenticator وتحقق منه"
+
+#: bws-google-2-step-verification.php:1635
+msgid ""
+"Once you have scanned the QR code (or entered the secret key manually), "
+"enter and verify the 6-digit verification code generated by the "
+"Authenticator app"
+msgstr ""
+"بمجرد مسح رمز الاستجابة السريعة ضوئيًا (أو إدخال المفتاح السري يدويًا)، أدخل "
+"رمز التحقق المكون من 6 أرقام الذي تم إنشاؤه بواسطة تطبيق Authenticator وتحقق "
+"منه"
+
+#: bws-google-2-step-verification.php:1638
+msgid "Verify"
+msgstr "التحقق"
+
+#: bws-google-2-step-verification.php:1641
+msgid "Wrong code, try again."
+msgstr "رمز خاطئ، حاول مرة أخرى."
+
+#: bws-google-2-step-verification.php:1658
+msgid "Backup Codes"
+msgstr "الرموز الاحتياطية"
+
+#: bws-google-2-step-verification.php:1664
+#, php-format
+msgid "Codes left: %s"
+msgstr "الرموز المتبقية: %s"
+
+#: bws-google-2-step-verification.php:1674
+msgid "Download as TXT"
+msgstr "التنزيل بصيغة TXT"
+
+#: bws-google-2-step-verification.php:1677
+msgid "Generate New Codes"
+msgstr "إنشاء رموز جديدة"
+
+#: bws-google-2-step-verification.php:1681
+msgid ""
+"Each Backup code can be used only once. You should keep it somewhere safe "
+"but accessible."
+msgstr ""
+"يمكن استخدام كل رمز احتياطي مرة واحدة فقط. يجب عليك الاحتفاظ به في مكان آمن "
+"ولكن يمكن الوصول إليه."
+
+#: bws-google-2-step-verification.php:1683
+#: bws-google-2-step-verification.php:1684
+msgid "Show Codes"
+msgstr "إظهار الرموز"
+
+#: bws-google-2-step-verification.php:1683
+msgid "Hide Codes"
+msgstr "إخفاء الرموز"
+
+#: bws-google-2-step-verification.php:1707
+msgid "Secret question : "
+msgstr "السؤال السري : "
+
+#: bws-google-2-step-verification.php:1712
+msgid "Edit question data"
+msgstr "تحرير بيانات السؤال"
+
+#: bws-google-2-step-verification.php:1719
+msgid "Enter your secret question :"
+msgstr "أدخل سؤالك السري :"
+
+#: bws-google-2-step-verification.php:1722
+msgid "Enter answer for secret question :"
+msgstr "أدخل إجابة السؤال السري :"
+
+#: bws-google-2-step-verification.php:1774
+msgid "Enable if you want the user to use 2-Step Verification."
+msgstr "قم بالتمكين إذا كنت تريد أن يستخدم المستخدم التحقق بخطوتين."
+
+#: bws-google-2-step-verification.php:1836
+#: includes/class-gglstpvrfctn-settings.php:85
+msgid "Sorry, your nonce did not verify."
+msgstr "عذرا، لم يتم التأكيد."
+
+#: bws-google-2-step-verification.php:1974
+msgid "You should enable and configure at least one verification method."
+msgstr "يجب تمكين طريقة تحقق واحدة على الأقل وتكوينها."
+
+#: bws-google-2-step-verification.php:1975
+#: bws-google-2-step-verification.php:1990
+msgid "2-Step Verification has been disabled."
+msgstr "تم تعطيل التحقق بخطوتين."
+
+#: bws-google-2-step-verification.php:1989
+msgid "At least one enabled verification method should be configured properly."
+msgstr "يجب تكوين طريقة تحقق واحدة على الأقل ممكّنة بشكل صحيح."
+
+#: bws-google-2-step-verification.php:2028
+msgid "FAQ"
+msgstr "الأسئلة الشائعة"
+
+#: bws-google-2-step-verification.php:2029
+msgid "Support"
+msgstr "الدعم"
+
+#: bws-google-2-step-verification.php:2121
+msgid "This is your question : "
+msgstr "هذا هو سؤالك : "
+
+#: bws-google-2-step-verification.php:2121
+msgid "You have empty secret pass"
+msgstr "لديك تصريح مرور سري فارغ"
+
+#: includes/class-gglstpvrfctn-settings.php:31
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: includes/class-gglstpvrfctn-settings.php:32
+msgid "Misc"
+msgstr "متفرقات"
+
+#: includes/class-gglstpvrfctn-settings.php:33
+msgid "Custom Code"
+msgstr "كود مخصص"
+
+#: includes/class-gglstpvrfctn-settings.php:34
+msgid "License Key"
+msgstr "مفتاح الترخيص"
+
+#: includes/class-gglstpvrfctn-settings.php:110
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+#: includes/class-gglstpvrfctn-settings.php:126
+msgid "Please enable JavaScript in Your browser."
+msgstr "يرجى تفعيل JavaScript في متصفحك."
+
+#: includes/class-gglstpvrfctn-settings.php:134
+msgid "Note"
+msgstr "ملاحظة"
+
+#: includes/class-gglstpvrfctn-settings.php:135
+msgid ""
+"Users should enable 2-step verification option for their accounts on the "
+"personal profile page."
+msgstr ""
+"يجب على المستخدمين تمكين خيار التحقق بخطوتين لحساباتهم على صفحة الملف الشخصيّ."
+
+#: includes/class-gglstpvrfctn-settings.php:153
+msgid "2-Step Verification Settings"
+msgstr "إعدادات التحقق بخطوتين"
+
+#: includes/class-gglstpvrfctn-settings.php:181
+msgid "Email Verification by Default "
+msgstr "التحقق من البريد الإلكتروني افتراضيًا "
+
+#: includes/class-gglstpvrfctn-settings.php:185
+msgid ""
+"Enable to apply 2-step authentication via email to the new user by default."
+msgstr ""
+"تمكين تطبيق المصادقة بخطوتين عبر البريد الإلكتروني للمستخدم الجديد بشكل "
+"افتراضي."
+
+#: includes/class-gglstpvrfctn-settings.php:194
+#: includes/class-gglstpvrfctn-settings.php:277
+#: includes/class-gglstpvrfctn-settings.php:362
+msgid "Close"
+msgstr "إغلاق"
+
+#: includes/class-gglstpvrfctn-settings.php:198
+msgid "Verification Methods for Non-registered Users "
+msgstr "طرق التحقق للمستخدمين غير المسجلين "
+
+#: includes/class-gglstpvrfctn-settings.php:215
+msgid "SMS Settings"
+msgstr "إعدادات SMS"
+
+#: includes/class-gglstpvrfctn-settings.php:222
+msgid "Register your website in"
+msgstr "سجّل موقع الويب الخاص بك في"
+
+#: includes/class-gglstpvrfctn-settings.php:224
+msgid "Firebase console"
+msgstr "وحدة تحكم فايربيس"
+
+#: includes/class-gglstpvrfctn-settings.php:225
+msgid ""
+"to use the SMS code verification method. After registration add the API key "
+"into the field below."
+msgstr ""
+"لاستخدام طريقة التحقق من رمز الرسائل النصية القصيرة. بعد التسجيل أضف مفتاح "
+"API في الحقل أدناه."
+
+#: includes/class-gglstpvrfctn-settings.php:233
+msgid "Need help to setup a Firebase account?"
+msgstr "هل تحتاج إلى مساعدة لإعداد حساب Firebase؟"
+
+#: includes/class-gglstpvrfctn-settings.php:235
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#: includes/class-gglstpvrfctn-settings.php:239
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: includes/class-gglstpvrfctn-settings.php:241
+msgid "Test Firebase SMS Auth"
+msgstr "اختبار مصادقة الرسائل النصية القصيرة من Firebase"
+
+#: includes/class-gglstpvrfctn-settings.php:243
+msgid "Test phone number"
+msgstr "اختبار رقم الهاتف"
+
+#: includes/class-gglstpvrfctn-settings.php:245
+msgid "Send test SMS"
+msgstr "إرسال رسالة قصيرة للإختبار"
+
+#: includes/class-gglstpvrfctn-settings.php:251
+msgid "Enter the code from sms and click 'Test code' button "
+msgstr "أدخل الرمز من الرسائل القصيرة وانقر على زر \"اختبار الرمز "
+
+#: includes/class-gglstpvrfctn-settings.php:254
+msgid "Test code"
+msgstr "رمز الاختبار"
+
+#: includes/class-gglstpvrfctn-settings.php:263
+msgid "Enable Verification for"
+msgstr "تمكين التحقق من"
+
+#: includes/class-gglstpvrfctn-settings.php:267
+msgid "All"
+msgstr "الكل"
+
+#: includes/class-gglstpvrfctn-settings.php:268
+msgid ""
+"Uncheck if you would like to allow 2-Step Verification only for the "
+"administrator"
+msgstr "قم بإلغاء التحديد إذا كنت ترغب في السماح بالتحقق بخطوتين فقط للمسؤول"
+
+#: includes/class-gglstpvrfctn-settings.php:309
+msgid "Email Codes Expiration Time"
+msgstr "وقت انتهاء صلاحية رموز البريد الإلكتروني"
+
+#: includes/class-gglstpvrfctn-settings.php:312
+#: includes/class-gglstpvrfctn-settings.php:324
+msgid "minute(-s)"
+msgstr "دقيقة (-دقائق)"
+
+#: includes/class-gglstpvrfctn-settings.php:313
+#, php-format
+msgid "Set \"%d\" to disable expiration time."
+msgstr "قم بتعيين \"%d\" لتعطيل وقت انتهاء الصلاحية."
+
+#: includes/class-gglstpvrfctn-settings.php:318
+msgid "Authenticator Time Window"
+msgstr "النافذة الزمنية للموثق"
+
+#: includes/class-gglstpvrfctn-settings.php:325
+msgid ""
+"Time-based codes generation depends upon the time. The time on your web-"
+"server and on device with Authenticator app should be the same. You can "
+"increase Authenticator time window if you want to allow some difference "
+"between your web-server's and user device's time."
+msgstr ""
+"يعتمد إنشاء الرموز المستندة إلى الوقت على الوقت. يجب أن يكون الوقت على خادم "
+"الويب الخاص بك وعلى الجهاز الذي يحتوي على تطبيق Authenticator هو نفسه. يمكنك "
+"زيادة نافذة وقت Authenticator إذا كنت تريد السماح ببعض الاختلاف بين وقت خادم "
+"الويب الخاص بك ووقت جهاز المستخدم."
+
+#: includes/class-gglstpvrfctn-settings.php:328
+#, php-format
+msgid "Set \"%1$d\" to use default value (default is %2$d sec)."
+msgstr ""
+"قم بتعيين \"%1$d\" لاستخدام القيمة الافتراضية (الافتراضي هو %2$d ثانية)."
+
+#: includes/class-gglstpvrfctn-settings.php:344
+msgid "2-Step Notifications Settings"
+msgstr "2-إعدادات الإشعارات على خطوتين"
+
+#: includes/class-gglstpvrfctn-settings.php:349
+msgid "Email Notifications"
+msgstr "اشعارات البريد الالكتروني"
+
+#: includes/class-gglstpvrfctn-settings.php:353
+msgid ""
+"Enable to activate failed verification attempts notifications option for "
+"users (users should enable appropriate option in their profiles to receive "
+"email notifications)."
+msgstr ""
+"تمكين تفعيل خيار إشعارات محاولات التحقق الفاشلة للمستخدمين (يجب على "
+"المستخدمين تمكين الخيار المناسب في ملفاتهم الشخصية لتلقي إشعارات البريد "
+"الإلكتروني)."
+
+#: includes/class-gglstpvrfctn-settings.php:366
+msgid "Subject"
+msgstr "الموضوع"
+
+#: includes/class-gglstpvrfctn-settings.php:372
+msgid "Message"
+msgstr "الرسالة"
+
+#: includes/class-gglstpvrfctn-settings.php:376
+msgid "Allowed variables"
+msgstr "المتغيرات المسموح بها"
+
+#: includes/class-gglstpvrfctn-settings.php:377
+msgid "User name"
+msgstr "اسم المستخدم"
+
+#: includes/class-gglstpvrfctn-settings.php:378
+msgid "User email"
+msgstr "البريد الإلكتروني للمستخدم"
+
+#: includes/class-gglstpvrfctn-settings.php:379
+msgid "Site name"
+msgstr "اسم الموقع"
+
+#: includes/class-gglstpvrfctn-settings.php:380
+msgid "Site URL"
+msgstr "رابط الموقع"
+
+#: includes/class-gglstpvrfctn-settings.php:381
+msgid "Date and time when the IP address was blocked"
+msgstr "التاريخ والوقت الذي تم فيه حظر عنوان IP"
+
+#: includes/class-gglstpvrfctn-settings.php:382
+msgid "Blocked IP address"
+msgstr "عنوان IP المحظور"
+
+#: includes/class-gglstpvrfctn-settings.php:383
+msgid "Profile settings page URL"
+msgstr "عنوان URL لصفحة إعدادات الملف الشخصي"
+
+#: includes/class-gglstpvrfctn-settings.php:388
+msgid "Restore Default Email Notifications"
+msgstr "استعادة إشعارات البريد الإلكتروني الافتراضية"
+
+#: includes/class-gglstpvrfctn-settings.php:390
+msgid "Restore Email Notifications"
+msgstr "استعادة تنبيهات البريد الإلكتروني"
+
+#: includes/class-gglstpvrfctn-settings.php:392
+msgid "Restore default email notifications."
+msgstr "استعادة إشعارات البريد الإلكتروني الافتراضية."
